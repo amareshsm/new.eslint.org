@@ -1,5 +1,14 @@
 [
     {
+        "id": "mlo94zn7-x08dpobg-m9eqewga-3vjbrky5",
+        "name": "Michał Wojciechowski",
+        "url": null,
+        "image": "https://images.opencollective.com/michal-wojciechowski/avatar.png",
+        "amount": 100,
+        "date": "2023-01-18T03:16:31.783Z",
+        "source": "opencollective"
+    },
+    {
         "id": "gnxdwzj3-le5mpwjw-gy0qy8rv-bko04a97",
         "name": "Jonas Zimmermann",
         "url": null,
@@ -243,21 +252,12 @@
         "source": "opencollective"
     },
     {
-        "id": "eng0kzdy-vor4pzb0-oxopbma8-37xlw95j",
-        "name": "Wanda",
-        "url": null,
-        "image": "https://images.opencollective.com/guest-7dcb08ec/avatar.png",
-        "amount": 3,
-        "date": "2022-02-21T11:46:53.444Z",
-        "source": "opencollective"
-    },
-    {
-        "id": "SA_kwHOAFvahM4ABHcn",
-        "name": "Gabriel Gregório",
-        "image": "https://avatars.githubusercontent.com/u/48621655?u=8d11d15f533053597c354e57e0ed0fbb453c175b&v=4",
-        "url": "https://gregorio-portfolio.vercel.app/",
-        "amount": 25,
-        "date": "2022-12-07T23:22:34Z",
+        "id": "SA_kwHOAFvahM4ABKOm",
+        "name": "Lorenz Castillo",
+        "image": "https://avatars.githubusercontent.com/u/83609329?u=8eca2d0b411591f036a711fc7060aae2113a54e8&v=4",
+        "url": "https://github.com/LorenzCastillo",
+        "amount": 5,
+        "date": "2023-01-10T07:57:25Z",
         "source": "github"
     }
 ]
