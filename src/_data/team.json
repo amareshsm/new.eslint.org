@@ -151,10 +151,10 @@
             "title": "ESLint Alumnus",
             "website": "https://jameshenry.blog",
             "avatar_url": "https://avatars.githubusercontent.com/u/900523?v=4",
-            "bio": "Consultant Architect @nrwl. 5x MVP for TypeScript @microsoft. Creator of @typescript-eslint and @angular-eslint. Member of the ESLint, Babel and Prettier Teams.",
+            "bio": "Director of Engineering @nrwl. 5x MVP for TypeScript @microsoft. Creator of @typescript-eslint and @angular-eslint.",
             "twitter_username": "MrJamesHenry",
             "github_username": "JamesHenry",
-            "location": "United Arab Emirates"
+            "location": "☁️"
         },
         {
             "username": "markelog",
@@ -334,7 +334,7 @@
             "bio": "Software Engineer. Passionate about open source and helping developers maximize their productivity.",
             "twitter_username": null,
             "github_username": "bmish",
-            "location": "New York City"
+            "location": "New York City and San Francisco"
         },
         {
             "username": "SaraSoueidan",
@@ -405,6 +405,17 @@
             "twitter_username": null,
             "github_username": "platinumazure",
             "location": null
+        },
+        {
+            "username": "Rec0iL99",
+            "name": "Joel Mathew Koshy",
+            "title": "ESLint Support Team",
+            "website": "joelmathew.js.org",
+            "avatar_url": "https://avatars.githubusercontent.com/u/56463684?v=4",
+            "bio": "React | Graphql | Typescript",
+            "twitter_username": "Rec0iL99",
+            "github_username": "Rec0iL99",
+            "location": "India"
         }
     ]
 }
