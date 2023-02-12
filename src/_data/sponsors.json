@@ -633,7 +633,7 @@
             "url": "https://stefan-milenkovic.com",
             "image": "https://images.opencollective.com/stefan-milenkovic/1fd866a/avatar.png",
             "monthlyDonation": 5,
-            "totalDonations": 80,
+            "totalDonations": 85,
             "source": "opencollective",
             "tier": "backer"
         },
@@ -1117,6 +1117,14 @@
             "tier": "backer"
         },
         {
+            "name": "Jared Collier",
+            "image": "https://avatars.githubusercontent.com/u/2757601?v=4",
+            "url": "https://github.com/autoboxer",
+            "monthlyDonation": 5,
+            "source": "github",
+            "tier": "backer"
+        },
+        {
             "name": "lxmarinkovic",
             "image": "https://avatars.githubusercontent.com/u/3509527?u=6f7f7e2db1fa221d36752a92f247aa1325a55ba5&v=4",
             "url": "https://lxmarinkovic.com/",
@@ -1128,14 +1136,6 @@
             "name": "Nick Oliver",
             "image": "https://avatars.githubusercontent.com/u/3945917?u=75ac213afd2def70385395d15c58e888f3460867&v=4",
             "url": "pixnbits.org",
-            "monthlyDonation": 5,
-            "source": "github",
-            "tier": "backer"
-        },
-        {
-            "name": "Raymond Schweers",
-            "image": "https://avatars.githubusercontent.com/u/4108685?u=bdd564c34ff380d86efd09da600ec945338dc522&v=4",
-            "url": "www.hetwebbureau.nl",
             "monthlyDonation": 5,
             "source": "github",
             "tier": "backer"
